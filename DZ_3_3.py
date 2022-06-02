@@ -9,6 +9,7 @@
 
 # names=['Аня','Саша','Женя','Агата','Ирина']
 
+
 def thesaurus(*names):
     out = dict()
     for name in names:
