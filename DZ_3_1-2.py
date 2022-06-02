@@ -23,4 +23,5 @@ def num_translate_adv(eng_word):
 
 
 print(num_translate(eng_word))
+
 print(num_translate_adv(eng_word))
